@@ -143,9 +143,9 @@ public class Interface extends JFrame {
             }
 
             drawText(g2d, "CordyChecker", exoFont18, textMainColor, 12, 428, 18);
-            drawText(g2d, "vk.com/cordyadm", exoFont18, textMainColor, 12, 450, 18);
-            drawText(g2d, "ReallyWorld", exoFont18, textMainColor, 670, 428, 18);
-            drawText(g2d, "vk.com/reallyworlds", exoFont18, textMainColor, 594, 450, 18);
+            drawText(g2d, "t.me/zhivaevda", exoFont18, textMainColor, 12, 450, 18);
+            drawText(g2d, "Ваш проект", exoFont18, textMainColor, 670, 428, 18);
+            drawText(g2d, "vk.com/ваш_проект", exoFont18, textMainColor, 594, 450, 18);
 
             g2d.dispose();
         }
@@ -198,3 +198,4 @@ public class Interface extends JFrame {
         }
     }
 }
+
